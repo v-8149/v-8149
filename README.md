@@ -5,7 +5,7 @@ I'm Vaishnavi Shivade, a passionate learner with a love for coding and technolog
 - 📚  I'm currently a second-year B.Tech student in Artificial Intelligence at VIT, Pune.
 - 💻 My primary programming languages are C and C++ and I'm always eager to learn new ones.
 - 🚀 I enjoy contributing to open-source projects and collaborating with fellow developers.
-- 🔭 I’m interested in DSA as well as web development and I'm constantly exploring new technologies too.
+- 🔭 I’m interested in DSA as well as coding and I'm constantly exploring new technologies too.
 - 🌱 I’m currently doing a digital marketing internship to enhance my skill set.
 
 ### Find me around the web:
